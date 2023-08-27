@@ -16,6 +16,6 @@
 > ![1](https://github.com/hanmin0512/batch_SRV-022/assets/37041208/fc6f2742-283e-42a2-8d2d-4872b845bda0)
 
 ## 대처 방안 후 batch 파일 실행하여 진단 결과 확인
->![2](https://github.com/hanmin0512/batch_SRV-022/assets/37041208/ee595fca-4319-400a-a5dc-3b4f6c2b7ab2)
+> ![2](https://github.com/hanmin0512/batch_SRV-022/assets/37041208/ee595fca-4319-400a-a5dc-3b4f6c2b7ab2)
 
 
